@@ -1,0 +1,5 @@
+name: ExfyTacticalIsland
+author: crowed
+version: 1.0
+main: de.exfy.tacticalisland.TacticalIsland
+depend: [ExfyCore]
